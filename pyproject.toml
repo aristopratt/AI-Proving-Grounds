@@ -29,6 +29,7 @@ dependencies = [
     "watchfiles>=1.1.1",
     "yt-dlp>=2024.1.0",
     "pydub>=0.25.0",
+    "docarray>=0.41.0",
 ]
 
 [dependency-groups]
